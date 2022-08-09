@@ -1,16 +1,23 @@
-### Hi there 👋
+## 👋 **It's Jack.**  
 
-<!--
-**mvotho/mvotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Experience
+
+- JavaScript, TypeScript, Node.js (d.js, Express, Socket.IO)  
+- Java
+- React (Redux, Next.js)
+- HTML, CSS (TailwindCSS)
+- PostgreSQL, MySQL, SQLite, MongoDB
+
+### Currently Learning
+- Solidity
+
+---
+
+### Contact
+
+🐦 twitter • [@0x_jack](twitter.com/0x_jack)
