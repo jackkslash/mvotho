@@ -13,9 +13,6 @@ software developer.
 - HTML, CSS (TailwindCSS)
 - PostgreSQL, MySQL, SQLite, MongoDB
 
-### Currently Learning
-- Solidity
-
 ---
 
 ### Contact
